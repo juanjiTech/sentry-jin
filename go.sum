@@ -8,6 +8,8 @@ github.com/juanjiTech/inject/v2 v2.0.1 h1:K0zECCLfT0AWGjTlBXCbwxeUhlq3seXBVILj4Z
 github.com/juanjiTech/inject/v2 v2.0.1/go.mod h1:Y7l+q7kCY6Z6Yu8m53uXAJnpI8NE8fTCxvjb4xw1/UY=
 github.com/juanjiTech/jin v0.0.0-20230920141828-0f24b23e0e11 h1:R7t8E9jjpdxpnefDbTyPhlEpYOWXTNzFeEv08PU47+k=
 github.com/juanjiTech/jin v0.0.0-20230920141828-0f24b23e0e11/go.mod h1:dr2nRfD2vVyGCo7IIRbW3iX8XWPLqjqlctwr+1qeebA=
+github.com/juanjiTech/jin v0.0.0-20230921031907-8807c458c1e7 h1:phvzrUmg0BimJTP5/x0iAi4agugpwuewrugoDzND2Y0=
+github.com/juanjiTech/jin v0.0.0-20230921031907-8807c458c1e7/go.mod h1:dr2nRfD2vVyGCo7IIRbW3iX8XWPLqjqlctwr+1qeebA=
 github.com/pingcap/errors v0.11.4 h1:lFuQV/oaUMGcD2tqt+01ROSmJs75VG1ToEOkZIZ4nE4=
 github.com/pkg/errors v0.9.1 h1:FEBLx1zS214owpjy7qsBeixbURkuhQAwrK5UwLGTwt4=
 github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZbAQM=
